@@ -1,0 +1,891 @@
+name,age,position,team
+Anthony Rendon,35,3B,Washington Nationals
+George Springer,36,RF,Houston Astros
+C.J. Cron,36,1B,Los Angeles Angels
+Joe Panik,35,2B,San Francisco Giants
+Mikie Mahtook,36,CF,Tampa Bay Rays
+Brad Miller,36,DH,Seattle Mariners
+Jason Esposito,35,3B,Baltimore Orioles
+Nick Ahmed,35,SS,Atlanta Braves
+Andrew Susac,35,C,San Francisco Giants
+Jack Armstrong,36,1B,Houston Astros
+Pratt Maynard,36,C,Los Angeles Dodgers
+B.A. Vollmuth,36,3B,Athletics
+Aaron Westlake,37,1B,Detroit Tigers
+Kyle Kubitza,35,3B,Atlanta Braves
+Ricky Oropesa,36,1B,San Francisco Giants
+John Hicks,36,C,Seattle Mariners
+Jake Lowery,35,C,Cleveland Guardians
+Jason King,36,3B,Detroit Tigers
+Riccio Torrez,36,3B,Tampa Bay Rays
+Matt Skole,36,DH,Washington Nationals
+Beau Taylor,36,C,Athletics
+Brandon Loy,35,2B,Detroit Tigers
+Taylor Featherston,36,3B,Colorado Rockies
+Ryan Wright,36,2B,Cincinnati Reds
+Tyler Grimes,35,C,Minnesota Twins
+Dan Gamache,35,2B,Pittsburgh Pirates
+Brandon Meredith,36,LF,Houston Astros
+Kyle Gaedele,36,LF,San Diego Padres
+Zach Wright,36,C,Philadelphia Phillies
+Steven Proscia,35,3B,Seattle Mariners
+Cole Frenzel,35,1B,New York Mets
+Scott Woodward,37,3B,Los Angeles Dodgers
+Harold Riggins,35,1B,Colorado Rockies
+Nick Martini,35,RF,St. Louis Cardinals
+Kevan Smith,37,C,Chicago White Sox
+John Ruettiger,36,LF,Baltimore Orioles
+Taylor Dugas,36,LF,Chicago Cubs
+Danny Muno,37,3B,New York Mets
+Jason Krizan,36,2B,Detroit Tigers
+Tommy La Stella,37,DH,Atlanta Braves
+Austin Barnes,36,C,Miami Marlins
+Tyler Ogle,35,C,Los Angeles Dodgers
+Chad Wright,36,CF,Detroit Tigers
+Travis Shaw,35,3B,Boston Red Sox
+Adam Bryant,36,1B,Minnesota Twins
+Matt Rice,36,C,Tampa Bay Rays
+Drew Martinez,36,OF,Los Angeles Angels
+Dusty Robinson,36,RF,Athletics
+Curt Casali,37,C,Detroit Tigers
+Robert Kral,36,C,San Diego Padres
+Logan Robbins,36,CF,Atlanta Braves
+Mike Zunino,34,C,Seattle Mariners
+James Ramsey,36,CF,St. Louis Cardinals
+Deven Marrero,35,3B,Boston Red Sox
+Richie Shaffer,34,1B,Tampa Bay Rays
+Victor Roache,34,LF,Milwaukee Brewers
+Nolan Fontana,34,2B,Houston Astros
+Jeremy Baltz,35,LF,San Diego Padres
+Matt Reynolds,35,2B,New York Mets
+Adam Brett Walker,34,RF,Minnesota Twins
+Joey DeMichele,35,2B,Chicago White Sox
+Mac Williamson,35,LF,San Francisco Giants
+Patrick Kivlehan,36,RF,Seattle Mariners
+Christian Walker,34,1B,Baltimore Orioles
+Kenny Diekroeger,35,2B,Kansas City Royals
+Brandon Thomas,35,CF,Pittsburgh Pirates
+Brandon Miller,36,RF,Washington Nationals
+Alex Yarbrough,34,2B,Los Angeles Angels
+Alex D. Mejia,35,SS,St. Louis Cardinals
+Chris Serritella,35,1B,Philadelphia Phillies
+Andrew Aplin,34,CF,Houston Astros
+Chris Taylor,35,CF,Seattle Mariners
+Austin Nola,36,C,Miami Marlins
+Matt Wessinger,35,3B,Colorado Rockies
+Max Muncy,35,3B,Athletics
+Spencer Kieboom,34,C,Washington Nationals
+Blake Brown,34,CF,Atlanta Braves
+Ronnie Freeman,35,C,Arizona Diamondbacks
+Rob Refsnyder,34,RF,New York Yankees
+Anthony Gomez,35,SS,Miami Marlins
+Jayce Boyd,35,1B,New York Mets
+Joe Hudson,34,C,Cincinnati Reds
+Eric Phillips,35,SS,Toronto Blue Jays
+Eric Stamets,34,SS,Los Angeles Angels
+Josh Elander,34,LF,Atlanta Braves
+Jake Lamb,35,1B,Arizona Diamondbacks
+Cameron Perkins,35,LF,Philadelphia Phillies
+Preston Tucker,35,LF,Houston Astros
+Taylor Ard,36,1B,Seattle Mariners
+Stephen Bruno,35,2B,Chicago Cubs
+Jacob Stallings,36,C,Pittsburgh Pirates
+Beau Amaral,35,OF,Cincinnati Reds
+Ian Parmley,36,CF,Toronto Blue Jays
+Marty Gantt,36,LF,Tampa Bay Rays
+Cam Schiller,36,2B,Texas Rangers
+Tyler Heineman,34,C,Houston Astros
+Torsten Boss,35,2B,Baltimore Orioles
+Brian Adams,34,OF,San Diego Padres
+Derek Jones,35,RF,Colorado Rockies
+Seth Mejias-Brean,34,3B,Cincinnati Reds
+Tucker Frawley,36,C,Toronto Blue Jays
+Yoenny Gonzalez,34,OF,St. Louis Cardinals
+Luke Maile,35,C,Tampa Bay Rays
+Evan Marzilli,34,CF,Arizona Diamondbacks
+Jeff McVaney,36,RF,Detroit Tigers
+Taylor Dugas,36,LF,New York Yankees
+Josh Ludy,35,C,Philadelphia Phillies
+L.J. Mazzilli,35,2B,Minnesota Twins
+Jamodrick McGruder,34,2B,Seattle Mariners
+D.J. Crumlich,35,3B,Pittsburgh Pirates
+Richie Rodriguez,36,2B,New York Mets
+Daniel Pigott,36,1B,Cincinnati Reds
+Joey Rickard,34,RF,Tampa Bay Rays
+Jake Stewart,35,OF,Detroit Tigers
+Joel Hutter,35,3B,Baltimore Orioles
+Stephen Carmon,35,SS,San Diego Padres
+Ben Waldrip,35,1B,Colorado Rockies
+Brett Vertigan,35,CF,Athletics
+Craig Manuel,35,C,Washington Nationals
+Trevor Brown,34,C,San Francisco Giants
+Jacob Wilson,35,2B,St. Louis Cardinals
+Daniel Poma,36,RF,Arizona Diamondbacks
+Matt Snyder,35,1B,New York Yankees
+Kris Bryant,34,DH,Chicago Cubs
+Hunter Dozier,34,3B,Kansas City Royals
+D.J. Peterson,34,1B,Seattle Mariners
+Hunter Renfroe,34,RF,San Diego Padres
+Eric Jagielo,33,3B,New York Yankees
+Phillip Ervin,33,LF,Cincinnati Reds
+Aaron Judge,33,RF,New York Yankees
+Austin Wilson,34,RF,Seattle Mariners
+Jacob Hannemann,34,CF,Chicago Cubs
+Stuart Turner,34,C,Minnesota Twins
+JaCoby Jones,33,CF,Pittsburgh Pirates
+Daniel Palka,34,LF,Arizona Diamondbacks
+Jacob May,34,CF,Chicago White Sox
+Brandon Dixon,34,3B,Los Angeles Dodgers
+Ryon Healy,34,1B,Athletics
+Michael O'Neill,33,LF,New York Yankees
+Conrad Gregor,33,1B,Houston Astros
+Jordan Patterson,34,RF,Colorado Rockies
+Zane Evans,34,C,Kansas City Royals
+L.J. Mazzilli,35,2B,New York Mets
+Mason Katz,35,2B,St. Louis Cardinals
+Brian Ragira,34,1B,San Francisco Giants
+Tony Kemp,34,LF,Houston Astros
+Chad Wallach,34,C,Miami Marlins
+Jared King,34,LF,New York Mets
+Jack Reinheimer,33,SS,Seattle Mariners
+Johnny Field,33,LF,Tampa Bay Rays
+Joe Jackson,33,LF,Texas Rangers
+Mikey Reynolds,35,2B,Atlanta Braves
+Adam Frazier,34,2B,Pittsburgh Pirates
+Jason Monda,34,OF,Philadelphia Phillies
+Garrett Cooper,35,1B,Milwaukee Brewers
+James Ramsay,33,CF,Houston Astros
+Matt Oberste,34,DH,New York Mets
+Brandon Trinkwon,33,2B,Los Angeles Dodgers
+Connor Harrell,34,CF,Detroit Tigers
+Ty Young,33,3B,Tampa Bay Rays
+Drew Dosch,33,3B,Baltimore Orioles
+Brandon Bednar,33,2B,San Francisco Giants
+Jimmy Yezzo,33,1B,Washington Nationals
+Forrestt Allday,34,OF,Boston Red Sox
+Tyler Smith,34,SS,Seattle Mariners
+Kyle Farmer,35,2B,Los Angeles Dodgers
+Trey Mancini,33,1B,Baltimore Orioles
+Tyler Marincov,34,RF,Athletics
+Tyler Horan,35,RF,San Francisco Giants
+Kyle Wren,34,CF,Atlanta Braves
+Brandon Thomas,35,CF,New York Yankees
+Pat Valaika,33,SS,Colorado Rockies
+Mitch Garver,35,C,Minnesota Twins
+Daniel Rockett,35,RF,Kansas City Royals
+Patrick Biondi,35,CF,New York Mets
+Grant Nelson,34,C,Arizona Diamondbacks
+Stephen McGee,35,C,Los Angeles Angels
+Mike Tauchman,35,RF,Colorado Rockies
+Ross Kivett,34,CF,Cleveland Guardians
+Carlos Lopez,36,RF,Miami Marlins
+Michael Ratterree,35,RF,Milwaukee Brewers
+Kasey Coffman,34,LF,Detroit Tigers
+Austin Wynns,35,C,Baltimore Orioles
+Brennan Middleton,35,2B,Washington Nationals
+Michael Conforto,32,LF,New York Mets
+Max Pentecost,32,DH,Toronto Blue Jays
+Trea Turner,32,SS,San Diego Padres
+Casey Gillaspie,33,1B,Tampa Bay Rays
+Bradley Zimmer,33,CF,Cleveland Guardians
+Matt Chapman,32,3B,Athletics
+AJ Reed,32,1B,Houston Astros
+Aramis Garcia,33,C,San Francisco Giants
+Taylor Sparks,32,3B,Cincinnati Reds
+J.D. Davis,32,3B,Houston Astros
+Brian Anderson,32,RF,Miami Marlins
+Mark Zagunis,33,RF,Chicago Cubs
+Austin Cousino,32,CF,Seattle Mariners
+Jordan Luplow,32,LF,Pittsburgh Pirates
+Brett Austin,33,C,Chicago White Sox
+Taylor Gushue,32,C,Pittsburgh Pirates
+Auston Bousfield,32,CF,San Diego Padres
+Shane Zeile,32,C,Detroit Tigers
+Michael Suchy,32,RF,Pittsburgh Pirates
+Louie Lechich,34,RF,Chicago White Sox
+Jose Trevino,33,C,Texas Rangers
+Mac James,32,C,Tampa Bay Rays
+Greg Allen,32,CF,Cleveland Guardians
+Ross Kivett,34,CF,Detroit Tigers
+Andrew Sohn,32,SS,St. Louis Cardinals
+Jake Peter,32,IF,Chicago White Sox
+Drew Weeks,32,OF,Colorado Rockies
+Mitch Meyer,33,LF,Milwaukee Brewers
+Seth Harrison,33,CF,San Francisco Giants
+Bo Way,34,OF,Los Angeles Angels
+Mark Payton,34,OF,New York Yankees
+Brandon Downes,33,CF,Kansas City Royals
+Joey Pankake,33,2B,Detroit Tigers
+Branden Cogswell,33,SS,Athletics
+Bobby Boyd,33,CF,Houston Astros
+Austin Slater,33,LF,San Francisco Giants
+Jake Yacinich,32,SS,Los Angeles Angels
+Connor Spencer,33,1B,New York Yankees
+Ryan O'Hearn,32,1B,Kansas City Royals
+Jeff Gardner,34,LF,Washington Nationals
+Brian O'Grady,33,RF,Cincinnati Reds
+Daniel Miles,34,3B,Tampa Bay Rays
+Ben Moore,33,C,Boston Red Sox
+Max Murphy,33,LF,Minnesota Twins
+Ryan Metzler,32,2B,Toronto Blue Jays
+Nick Vilter,32,3B,San Diego Padres
+Justin Gonzalez,34,SS,Arizona Diamondbacks
+Vicente Conde,32,2B,New York Yankees
+Brandon Thomasson,33,RF,Kansas City Royals
+Austin Byler,33,1B,Washington Nationals
+Doug Votolato,34,RF,Texas Rangers
+Adam Martin,34,C,Seattle Mariners
+Troy Stein,33,C,Colorado Rockies
+Caleb Adams,33,RF,Los Angeles Angels
+Ty McFarland,34,2B,New York Yankees
+Seth Spivey,33,2B,Texas Rangers
+Steven Patterson,33,2B,Cleveland Guardians
+Colin Hering,35,RF,Los Angeles Dodgers
+Cole Sturgeon,34,OF,Boston Red Sox
+Danny Diekroeger,33,3B,St. Louis Cardinals
+Dansby Swanson,32,SS,Arizona Diamondbacks
+Alex Bregman,31,3B,Houston Astros
+Andrew Benintendi,31,LF,Boston Red Sox
+Ian Happ,31,LF,Chicago Cubs
+Kevin Newman,32,3B,Pittsburgh Pirates
+Richie Martin,31,SS,Athletics
+DJ Stewart,32,RF,Baltimore Orioles
+Taylor Ward,32,LF,Los Angeles Angels
+Kyle Holder,31,SS,New York Yankees
+Chris Shaw,32,LF,San Francisco Giants
+Christin Stewart,32,LF,Detroit Tigers
+Donnie Dewees,32,CF,Chicago Cubs
+Scott Kingery,31,2B,Philadelphia Phillies
+Andrew Stevenson,31,CF,Washington Nationals
+Kevin Kramer,32,3B,Pittsburgh Pirates
+Mikey White,32,3B,Athletics
+Austin Rei,32,C,Boston Red Sox
+Blake Trahan,32,SS,Cincinnati Reds
+Brandon Lowe,31,2B,Tampa Bay Rays
+Braden Bishop,32,CF,Seattle Mariners
+Casey Hughston,31,CF,Pittsburgh Pirates
+Anderson Miller,31,OF,Kansas City Royals
+Harrison Bader,31,LF,St. Louis Cardinals
+Rhett Wiseman,31,RF,Washington Nationals
+Anthony Hermelyn,32,C,Houston Astros
+Tate Matheny,32,CF,Boston Red Sox
+Kyle Martin,33,1B,Philadelphia Phillies
+Carl Wise,31,3B,Toronto Blue Jays
+Jeff Hendrix,32,CF,New York Yankees
+Tyler Krieger,32,2B,Cleveland Guardians
+Skye Bolt,32,CF,Athletics
+Kade Scivicque,32,C,Detroit Tigers
+Paul DeJong,32,3B,St. Louis Cardinals
+Brendon Sanger,32,OF,Los Angeles Angels
+Joe McCarthy,31,LF,Tampa Bay Rays
+Blake Allemand,33,2B,Milwaukee Brewers
+Ka'ai Tom,31,OF,Cleveland Guardians
+Drew Jackson,32,2B,Seattle Mariners
+Ronnie Jebavy,31,CF,San Francisco Giants
+Roman Collins,31,LF,Kansas City Royals
+Cam Gibson,32,LF,Detroit Tigers
+Jared Foster,33,CF,Los Angeles Angels
+Steven Duggar,32,CF,San Francisco Giants
+Cody Jones,32,CF,Kansas City Royals
+Edwin Rios,31,1B,Los Angeles Dodgers
+David Fletcher,31,2B,Los Angeles Angels
+Dylan Moore,33,2B,Texas Rangers
+Jake Cronenworth,32,2B,Tampa Bay Rays
+Nathan Lukes,31,RF,Cleveland Guardians
+Jose Vizcaino Jr.,31,3B,San Francisco Giants
+Mitchell Tolman,31,2B,Pittsburgh Pirates
+Jesse Jenner,32,C,St. Louis Cardinals
+Hutton Moyer,32,2B,Los Angeles Angels
+Kal Simmons,32,3B,Arizona Diamondbacks
+Casey Schroeder,32,C,Chicago White Sox
+Patrick Mazeika,32,C,New York Mets
+Nick Collins,31,C,Athletics
+Kyle Survance Jr.,32,RF,Los Angeles Angels
+LaMonte Wade Jr.,32,1B,Minnesota Twins
+Tucker Tubbs,33,1B,Boston Red Sox
+Mark Laird,32,CF,Philadelphia Phillies
+Daniel De La Calle,33,C,Tampa Bay Rays
+Kevin Kaczmarski,34,RF,New York Mets
+Connor Panas,33,LF,Toronto Blue Jays
+Ryan Krill,32,1B,New York Yankees
+Conner Hale,33,3B,Seattle Mariners
+David Kerian,33,1B,Washington Nationals
+Tanner Lubach,33,C,Los Angeles Angels
+Joey Armstrong,32,RF,Arizona Diamondbacks
+Leon Byrd,31,2B,Texas Rangers
+Sean Miller,31,SS,Minnesota Twins
+Mitchell Gunsolus,33,3B,Boston Red Sox
+Jackson Glines,33,CF,Chicago White Sox
+Vimael Machín,32,SS,Chicago Cubs
+Josh Tobias,33,3B,Philadelphia Phillies
+Justin Pacchioli,33,OF,San Diego Padres
+Steven Pallares,32,CF,Athletics
+Cole Bauml,33,RF,Detroit Tigers
+Logan Landon,33,CF,Los Angeles Dodgers
+Nick Senzel,30,3B,Cincinnati Reds
+Corey Ray,31,CF,Milwaukee Brewers
+Kyle Lewis,30,OF,Seattle Mariners
+Matt Thaiss,30,C,Los Angeles Angels
+Will Craig,31,3B,Pittsburgh Pirates
+Will Smith,30,C,Los Angeles Dodgers
+Chris Okey,31,C,Cincinnati Reds
+Michael Reed,30,OF,San Diego Padres
+C.J. Chatham,31,SS,Boston Red Sox
+Ryan Boldt,31,RF,Tampa Bay Rays
+J.B. Woodman,31,CF,Toronto Blue Jays
+Sheldon Neuse,31,3B,Washington Nationals
+Bryan Reynolds,31,RF,San Francisco Giants
+Ronnie Dawson,30,DH,Houston Astros
+Nick Solak,31,1B,New York Yankees
+Pete Alonso,31,1B,New York Mets
+Garrett Hampson,31,2B,Colorado Rockies
+Sean Murphy,31,C,Athletics
+Alex Call,31,RF,Chicago White Sox
+Bryson Brigman,30,SS,Seattle Mariners
+Austin Hays,30,LF,Baltimore Orioles
+Heath Quinn,30,OF,San Francisco Giants
+Jake Rogers,30,C,Houston Astros
+Blake Tiberi,31,IF,New York Mets
+Stephen Alemais,30,SS,Pittsburgh Pirates
+Jameson Fisher,32,1B,Chicago White Sox
+Bobby Dalbec,30,1B,Boston Red Sox
+Nick Banks,31,OF,Washington Nationals
+Charles Leblanc,29,3B,Texas Rangers
+Michael Paez,31,2B,New York Mets
+Joshua Palacios,30,RF,Toronto Blue Jays
+Jeremy Martinez,31,C,St. Louis Cardinals
+Brian Serven,30,C,Colorado Rockies
+JaVon Shelby,30,3B,Athletics
+Donovan Walton,31,2B,Seattle Mariners
+Daniel Johnson,30,CF,Washington Nationals
+Ryan Howard,31,SS,San Francisco Giants
+Connor Justus,31,SS,Los Angeles Angels
+Dom Thompson-Williams,30,OF,New York Yankees
+Colby Woodmansee,31,SS,New York Mets
+Cavan Biggio,30,1B,Toronto Blue Jays
+Nicky Lopez,30,3B,Kansas City Royals
+David Martinelli,31,CF,Philadelphia Phillies
+Matt Gonzalez,32,2B,Atlanta Braves
+Tres Barrera,31,C,Washington Nationals
+Stephen Wrenn,31,OF,Houston Astros
+Errol Robinson,31,2B,Los Angeles Dodgers
+Tommy Edman,30,2B,St. Louis Cardinals
+Henri Lartigue,30,C,Philadelphia Phillies
+J.B. Moss,32,LF,Atlanta Braves
+Tyler Ramirez,30,OF,Athletics
+Corey Bird,30,CF,Miami Marlins
+Ryan Scott,32,LF,Boston Red Sox
+Preston Palmeiro,31,2B,Baltimore Orioles
+Matt Albanese,30,OF,Minnesota Twins
+Jake Noll,31,2B,Washington Nationals
+Jordan Zimmerman,31,2B,Los Angeles Angels
+Keith Skinner,31,C,New York Yankees
+Andrew Knizner,31,C,St. Louis Cardinals
+John Sansone,32,2B,Cincinnati Reds
+Jacob Robson,31,OF,Detroit Tigers
+Nick Zammarelli III,31,1B,Seattle Mariners
+Shane Carrier,29,LF,Minnesota Twins
+Troy Montgomery,31,RF,Los Angeles Angels
+Dalton Blaser,32,1B,New York Yankees
+Chris DeVito,31,1B,Kansas City Royals
+Tyler Neslony,32,LF,Atlanta Braves
+Trey York,31,2B,Milwaukee Brewers
+Jarett Rindfleisch,30,C,Miami Marlins
+Daniel Pinero,31,3B,Detroit Tigers
+Jason Goldstein,31,C,Seattle Mariners
+Joey Harris,32,C,Washington Nationals
+Michael Barash,31,C,Los Angeles Angels
+Tim Lynch,32,1B,New York Yankees
+Clark Eagan,30,CF,Pittsburgh Pirates
+Matt Fiedler,30,LF,St. Louis Cardinals
+Marcus Mooney,32,SS,Atlanta Braves
+Vince Fernandez,30,OF,Colorado Rockies
+Boomer White,32,3B,San Diego Padres
+Zach Remillard,31,2B,Chicago White Sox
+David Greer,30,RF,Seattle Mariners
+Stephen Smith,31,RF,Arizona Diamondbacks
+Paul Panaccione,32,SS,Washington Nationals
+Gene Cone,31,RF,New York Mets
+Kevin Lachance,31,SS,Los Angeles Dodgers
+Danny Hudzina,31,3B,St. Louis Cardinals
+Pavin Smith,30,1B,Arizona Diamondbacks
+Adam Haseley,29,RF,Philadelphia Phillies
+Keston Hiura,29,1B,Milwaukee Brewers
+Jake Burger,29,1B,Chicago White Sox
+Evan White,29,1B,Seattle Mariners
+Logan Warmoth,30,3B,Toronto Blue Jays
+Jeren Kendall,30,OF,Los Angeles Dodgers
+Stuart Fairchild,29,RF,Cincinnati Reds
+Greg Deichmann,30,OF,Athletics
+Drew Ellis,30,3B,Arizona Diamondbacks
+Gavin Sheets,29,LF,Chicago White Sox
+Joe Dunand,30,1B,Miami Marlins
+Taylor Walls,29,SS,Tampa Bay Rays
+K.J. Harrison,29,1B,Milwaukee Brewers
+Luis González,30,RF,Chicago White Sox
+Dylan Busby,30,3B,Pittsburgh Pirates
+Riley Mahan,30,2B,Miami Marlins
+Scott Hurst,29,OF,St. Louis Cardinals
+Joey Morgan,29,C,Detroit Tigers
+Quinn Brodey,30,RF,New York Mets
+Riley Adams,29,C,Toronto Blue Jays
+Connor Wong,29,C,Los Angeles Dodgers
+Brett Netzer,29,2B,Boston Red Sox
+Matt Whatley,30,C,Texas Rangers
+Will Toffey,31,3B,Athletics
+Jake Scheiner,30,3B,Philadelphia Phillies
+Jason Delay,30,C,Pittsburgh Pirates
+Michael Gigliotti,30,OF,Kansas City Royals
+Kramer Robertson,31,SS,St. Louis Cardinals
+Kevin Smith,29,3B,Toronto Blue Jays
+Ernie Clement,29,3B,Cleveland Guardians
+Cole Freeman,31,2B,Washington Nationals
+David Bañuelos,29,C,Seattle Mariners
+Matt Winaker,30,1B,New York Mets
+Austen Wade,30,OF,Cleveland Guardians
+Zach Rutherford,29,3B,Tampa Bay Rays
+Jordan Rodgers,30,3B,Atlanta Braves
+Dalton Guthrie,30,LF,Philadelphia Phillies
+Devin Hairston,29,SS,Milwaukee Brewers
+Jonah Todd,30,OF,Los Angeles Angels
+Chad Spanberger,30,1B,Colorado Rockies
+Jake Adams,30,1B,Houston Astros
+Dane Myers,29,CF,Detroit Tigers
+Bryce Johnson,30,CF,San Francisco Giants
+Mason McCoy,30,2B,Baltimore Orioles
+Brock Lundquist,30,LF,Toronto Blue Jays
+Mike Rivera,30,C,Cleveland Guardians
+Mark Kolozsvary,30,C,Cincinnati Reds
+Evan Skoug,30,C,Chicago White Sox
+Jared Oliva,30,OF,Pittsburgh Pirates
+Chase Pinder,29,CF,St. Louis Cardinals
+Ben Breazeale,31,C,Baltimore Orioles
+Tim Susnara,29,C,Arizona Diamondbacks
+Bret Boswell,31,SS,Colorado Rockies
+Jared Barnes,30,C,Miami Marlins
+Corey Julks,29,LF,Houston Astros
+Billy Cooke,30,OF,Seattle Mariners
+Kacy Clemens,31,1B,Toronto Blue Jays
+Rylan Bannon,29,3B,Los Angeles Dodgers
+Mark Contreras,31,LF,Minnesota Twins
+Riley Delgado,30,3B,Atlanta Braves
+Camden Duzenack,30,2B,Arizona Diamondbacks
+Jack Zoellner,31,3B,Philadelphia Phillies
+Dallas Carroll,31,3B,Milwaukee Brewers
+Sean Bouchard,29,RF,Colorado Rockies
+Michael Papierski,29,1B,Houston Astros
+Luke Burch,31,CF,Detroit Tigers
+T.J. Nichting,31,RF,Baltimore Orioles
+Tanner Gardner,30,OF,Texas Rangers
+Chris Carrier,30,OF,Chicago Cubs
+Jack Meggs,30,OF,Athletics
+Austin Bernard,29,C,Colorado Rockies
+Garrett McCain,29,OF,Detroit Tigers
+Rob Calabrese,30,C,San Francisco Giants
+Zach Reks,32,LF,Los Angeles Dodgers
+Jordan Wren,31,OF,Boston Red Sox
+Jesse Berardi,30,2B,Cleveland Guardians
+Joey Bart,29,C,San Francisco Giants
+Alec Bohm,29,3B,Philadelphia Phillies
+Nick Madrigal,28,3B,Chicago White Sox
+Jonathan India,29,2B,Cincinnati Reds
+Kyler Murray,28,OF,Athletics
+Travis Swaggerty,28,LF,Pittsburgh Pirates
+Trevor Larnach,28,RF,Minnesota Twins
+Nico Hoerner,28,2B,Chicago Cubs
+Seth Beer,29,1B,Houston Astros
+Steele Walker,29,OF,Chicago White Sox
+Greyson Jenista,29,1B,Atlanta Braves
+Jameson Hannah,28,RF,Athletics
+Griffin Conine,28,LF,Toronto Blue Jays
+Josh Stowers,28,RF,Seattle Mariners
+Tyler Frank,29,2B,Tampa Bay Rays
+Kody Clemens,29,2B,Detroit Tigers
+Carlos Cortes,28,LF,New York Mets
+Owen Miller,29,2B,San Diego Padres
+Connor Kaiser,29,SS,Pittsburgh Pirates
+Tristan Pompey,28,CF,Miami Marlins
+Cal Raleigh,29,C,Seattle Mariners
+Ford Proctor,29,2B,Tampa Bay Rays
+Kyle Isbel,28,CF,Kansas City Royals
+Terrin Vavra,28,2B,Colorado Rockies
+Jimmy Herron,29,LF,Chicago Cubs
+Jeremy Peña,28,SS,Houston Astros
+Richie Palacios,28,LF,Cleveland Guardians
+Alfonso Rivas III,29,1B,Athletics
+Nick Fortes,29,C,Miami Marlins
+Grant Witherspoon,29,CF,Tampa Bay Rays
+Eric Cole,29,OF,Kansas City Royals
+DaShawn Keirsey Jr.,28,CF,Minnesota Twins
+Kole Cottam,28,C,Boston Red Sox
+Alex McKenna,28,OF,Houston Astros
+Matt Vierling,29,CF,Philadelphia Phillies
+Dwanya Williams-Sutton,28,OF,San Diego Padres
+Grant Koch,29,C,Pittsburgh Pirates
+Robert Neustrom,29,OF,Baltimore Orioles
+Chris Bec,30,C,Toronto Blue Jays
+Nick Dunn,29,3B,St. Louis Cardinals
+Brandon Lockridge,28,LF,New York Yankees
+Andy Weber,28,2B,Chicago Cubs
+Gage Canning,28,OF,Washington Nationals
+Steven Kwan,28,LF,Cleveland Guardians
+Devin Mann,29,3B,Los Angeles Dodgers
+Nick Meyer,28,C,New York Mets
+Niko Decolati,28,RF,Colorado Rockies
+Devlin Granberg,30,OF,Boston Red Sox
+Jay Schuyler,28,C,Cincinnati Reds
+Jawuan Harris,29,OF,San Diego Padres
+Brett Kinneman,29,RF,Pittsburgh Pirates
+Nick Podkul,28,1B,Toronto Blue Jays
+Brendan Donovan,29,2B,St. Louis Cardinals
+David Fry,30,1B,Milwaukee Brewers
+D.J. Artis,28,OF,Chicago Cubs
+César Salazar,29,C,Houston Astros
+James Outman,28,CF,Los Angeles Dodgers
+Jeremiah Burks,29,2B,Detroit Tigers
+Seth Lancaster,29,SS,Philadelphia Phillies
+AJ Graffanino,28,2B,Atlanta Braves
+JJ Schwarz,29,C,Athletics
+Jax Biggers,28,2B,Texas Rangers
+Jackson Lueck,28,OF,Kansas City Royals
+Chris Williams,29,C,Minnesota Twins
+Tyler Cropley,30,C,Washington Nationals
+Luke Heyer,29,2B,Los Angeles Dodgers
+Gunnar Troutwine,29,C,Chicago White Sox
+Luke Becker,29,2B,San Diego Padres
+Jake Brodt,30,1B,Toronto Blue Jays
+Keegan McGovern,30,OF,Seattle Mariners
+Matt Duce,30,C,St. Louis Cardinals
+Willie MacIver,29,C,Colorado Rockies
+Scott Schreiber,30,OF,Houston Astros
+Josh McLain,29,OF,Los Angeles Dodgers
+Brock Deatherage,30,CF,Detroit Tigers
+Madison Stokes,29,SS,Philadelphia Phillies
+Michael Gretler,30,3B,Pittsburgh Pirates
+Cal Stevenson,29,OF,Toronto Blue Jays
+Matt Sanders,29,SS,Seattle Mariners
+Kevin Woodall,29,1B,St. Louis Cardinals
+Cade Harris,28,RF,Colorado Rockies
+Luke Reynolds,30,3B,Chicago Cubs
+Nick Dalesandro,29,C,Arizona Diamondbacks
+Grant Williams,30,2B,Boston Red Sox
+Carson Shaddy,31,2B,Washington Nationals
+Chandler Taylor,30,OF,Houston Astros
+Deacon Liput,29,SS,Los Angeles Dodgers
+Adley Rutschman,28,C,Baltimore Orioles
+JJ Bleday,28,CF,Miami Marlins
+Josh Jung,28,3B,Texas Rangers
+Shea Langeliers,28,C,Atlanta Braves
+Hunter Bishop,27,OF,San Francisco Giants
+Bryson Stott,28,2B,Philadelphia Phillies
+Will Wilson,27,3B,Los Angeles Angels
+Braden Shewmake,28,SS,Atlanta Braves
+Michael Toglia,27,1B,Colorado Rockies
+Kody Hoese,28,3B,Los Angeles Dodgers
+Logan Davidson,28,1B,Athletics
+Michael Busch,28,1B,Los Angeles Dodgers
+Cam Cannon,28,SS,Boston Red Sox
+Brady McConnell,27,SS,Kansas City Royals
+Nick Quintana,28,3B,Detroit Tigers
+Logan Wyatt,28,1B,San Francisco Giants
+Matt Gorski,28,1B,Pittsburgh Pirates
+Beau Philip,27,SS,Atlanta Braves
+Aaron Schunk,28,SS,Colorado Rockies
+Chase Strumpf,27,3B,Chicago Cubs
+Josh Smith,28,SS,New York Yankees
+Grae Kessinger,28,3B,Houston Astros
+Zach Watson,28,CF,Baltimore Orioles
+Peyton Burdick,28,CF,Miami Marlins
+Andre Lipcius,27,2B,Detroit Tigers
+Spencer Steer,28,1B,Minnesota Twins
+Tristin English,28,OF,Arizona Diamondbacks
+Drew Mendoza,28,3B,Washington Nationals
+Matt Fraizer,28,CF,Pittsburgh Pirates
+Jake Sanford,28,CF,New York Yankees
+Jordan Brewer,28,CF,Houston Astros
+Joey Ortiz,27,SS,Baltimore Orioles
+Evan Edwards,28,1B,Miami Marlins
+Ryan Kreidler,28,CF,Detroit Tigers
+Tyler Fitzgerald,28,2B,San Francisco Giants
+Will Robertson,28,LF,Toronto Blue Jays
+Jake Mangum,29,LF,New York Mets
+Seth Gray,27,3B,Minnesota Twins
+Nick Kahle,27,C,Milwaukee Brewers
+Kyle McCann,28,C,Athletics
+John Rave,28,RF,Kansas City Royals
+Bryant Packard,28,LF,Detroit Tigers
+Kellen Strahm,28,RF,Texas Rangers
+Tanner Morris,28,2B,Toronto Blue Jays
+Will Holland,27,SS,Minnesota Twins
+Austin Shenton,28,1B,Seattle Mariners
+Thomas Dillard,28,C,Milwaukee Brewers
+Jaxx Groshans,27,C,Boston Red Sox
+Maverick Handley,27,C,Baltimore Orioles
+Cooper Johnson,27,C,Detroit Tigers
+Zach Ashford,29,CF,New York Mets
+Jackson Cluff,29,SS,Washington Nationals
+Will Matthiessen,28,1B,Pittsburgh Pirates
+Pedro Pagés,27,C,St. Louis Cardinals
+Matthew Barefoot,28,CF,Houston Astros
+Johnny Rizer,29,OF,Baltimore Orioles
+Eric Yang,27,C,Cincinnati Reds
+Armani Smith,27,OF,San Francisco Giants
+LJ Talley,28,2B,Toronto Blue Jays
+Luke Ritter,29,2B,New York Mets
+Anthony Prato,27,SS,Minnesota Twins
+Spencer Brickhouse,27,1B,Arizona Diamondbacks
+Jake Guenther,28,1B,Tampa Bay Rays
+Gabe Holt,28,CF,Milwaukee Brewers
+Drew Millas,28,C,Athletics
+Ivan Gonzalez,29,C,Chicago White Sox
+Tevin Mitchell,28,RF,Miami Marlins
+Jack Kenley,28,SS,Detroit Tigers
+Quin Cotton,27,CF,Cincinnati Reds
+Angel Camacho,28,3B,Toronto Blue Jays
+Nate Fassnacht,28,SS,Philadelphia Phillies
+Dominic Canzone,28,RF,Arizona Diamondbacks
+Jeremy Ydens,28,OF,Washington Nationals
+Will Brennan,28,RF,Cleveland Guardians
+Ryan Ward,27,LF,Los Angeles Dodgers
+David Hamilton,28,2B,Milwaukee Brewers
+Wil Dalton,28,CF,Boston Red Sox
+Clay Dungan,29,2B,Kansas City Royals
+TJ Hopkins,29,CF,Cincinnati Reds
+Simon Whiteman,29,SS,San Francisco Giants
+Phil Clarke,27,C,Toronto Blue Jays
+Joe Genord,29,1B,New York Mets
+Rudy Rott,29,1B,Philadelphia Phillies
+Ethan Paul,29,SS,Pittsburgh Pirates
+Mike Salvatore,29,1B,Seattle Mariners
+Isaac Collins,28,LF,Colorado Rockies
+Spencer Henson,28,1B,New York Yankees
+Jordan Cannon,29,C,Baltimore Orioles
+J.D. Orr,29,CF,Miami Marlins
+Jake Holton,27,1B,Detroit Tigers
+Jeff Houghtby,28,SS,San Francisco Giants
+McCarthy Tatum,29,3B,Philadelphia Phillies
+Jonathan Embry,29,C,Tampa Bay Rays
+Zac Ching,28,SS,Los Angeles Dodgers
+Patrick McColl,28,1B,Athletics
+Stephen Scott,28,OF,Boston Red Sox
+Spencer Torkelson,26,1B,Detroit Tigers
+Heston Kjerstad,27,LF,Baltimore Orioles
+Austin Martin,26,CF,Toronto Blue Jays
+Nick Gonzales,26,2B,Pittsburgh Pirates
+Patrick Bailey,26,C,San Francisco Giants
+Justin Foscue,26,1B,Texas Rangers
+Garrett Mitchell,27,CF,Milwaukee Brewers
+Aaron Sabato,26,1B,Minnesota Twins
+Austin Wells,26,C,New York Yankees
+Dillon Dingler,27,C,Detroit Tigers
+Hudson Haskin,27,OF,Baltimore Orioles
+Zach DeLoach,27,RF,Seattle Mariners
+Casey Schmitt,26,3B,San Francisco Giants
+Freddy Zamora,27,SS,Milwaukee Brewers
+Alerick Soularie,26,OF,Minnesota Twins
+Trei Cruz,27,CF,Detroit Tigers
+Anthony Servideo,26,SS,Baltimore Orioles
+Tyler Gentry,27,RF,Kansas City Royals
+Kaden Polcovich,26,2B,Seattle Mariners
+Casey Martin,26,SS,Philadelphia Phillies
+Jordan Nwogu,26,OF,Chicago Cubs
+Anthony Walters,28,SS,New York Mets
+Zavier Warren,27,1B,Milwaukee Brewers
+Jesse Franklin V,27,OF,Atlanta Braves
+Michael Guldberg,26,OF,Athletics
+Trevor Hauver,27,RF,New York Yankees
+Gage Workman,26,3B,Detroit Tigers
+Tyler Keenan,26,3B,Seattle Mariners
+Matthew Dyer,27,OF,New York Mets
+Joey Wiemer,27,LF,Milwaukee Brewers
+Brady Lindsly,27,C,Washington Nationals
+Carson Taylor,26,1B,Los Angeles Dodgers
+Zach Daniels,27,RF,Houston Astros
+Zach Britton,27,C,Toronto Blue Jays
+Jack Blomgren,27,SS,Colorado Rockies
+Baron Radcliff,27,OF,Philadelphia Phillies
+Hayden Cantrelle,27,2B,Milwaukee Brewers
+L.J. Jones,26,OF,St. Louis Cardinals
+Shay Whitcomb,27,LF,Houston Astros
+Henry Davis,26,C,Pittsburgh Pirates
+Colton Cowser,25,LF,Baltimore Orioles
+Sal Frelick,25,RF,Milwaukee Brewers
+Matt McLain,26,2B,Cincinnati Reds
+Trey Sweeney,25,SS,New York Yankees
+Aaron Zavala,25,LF,Texas Rangers
+Jud Fabian,25,CF,Boston Red Sox
+Connor Norby,25,3B,Baltimore Orioles
+Ryan Bliss,26,2B,Arizona Diamondbacks
+Ethan Wilson,26,OF,Philadelphia Phillies
+Cody Morissette,26,SS,Miami Marlins
+Zack Gelof,26,2B,Athletics
+Kyle Manzardo,25,1B,Tampa Bay Rays
+Tyler McDonough,26,OF,Boston Red Sox
+John Rhodes,25,OF,Baltimore Orioles
+Branden Boissiere,25,OF,Washington Nationals
+Alex Binelas,25,1B,Milwaukee Brewers
+Jose Torres,26,SS,Cincinnati Reds
+Donta' Williams,26,OF,Baltimore Orioles
+Hunter Goodman,26,C,Colorado Rockies
+JT Schwartz,26,1B,New York Mets
+Tanner Allen,27,OF,Miami Marlins
+Ruben Ibarra,26,1B,Cincinnati Reds
+Cooper Bowman,26,2B,New York Yankees
+Christian Franklin,26,LF,Chicago Cubs
+Cal Conley,26,SS,Atlanta Braves
+Christian Encarnacion-Strand,26,1B,Minnesota Twins
+Dru Baker,25,CF,Tampa Bay Rays
+Jackson Glenn,28,3B,Pittsburgh Pirates
+Nathan Hickey,26,C,Boston Red Sox
+Caleb Roberts,26,OF,Arizona Diamondbacks
+Andy Thomas,27,C,Seattle Mariners
+Ethan Murray,25,SS,Milwaukee Brewers
+Quincy Hamilton,27,OF,Houston Astros
+Brady Allen,26,RF,Miami Marlins
+Tyler Hardman,27,1B,New York Yankees
+Liam Spence,27,SS,Chicago Cubs
+Luke Waddell,27,SS,Atlanta Braves
+CJ Rodriguez,25,C,Athletics
+Max Ferguson,26,2B,San Diego Padres
+Mike Jarvis,27,SS,Pittsburgh Pirates
+Austin Murr,27,LF,Detroit Tigers
+Collin Burns,25,SS,Baltimore Orioles
+Braxton Fulford,27,C,Colorado Rockies
+Sam Praytor,26,C,Miami Marlins
+Justice Thompson,25,OF,Cincinnati Reds
+Justyn-Henry Malloy,25,RF,Atlanta Braves
+Wyatt Hendrie,27,C,Pittsburgh Pirates
+Connor Pavolony,26,C,Baltimore Orioles
+Kevin Kendall,26,SS,New York Mets
+Jacob Young,26,CF,Washington Nationals
+Colin Davis,27,OF,Seattle Mariners
+Tristan Peters,25,LF,Milwaukee Brewers
+Joey Loperfido,26,LF,Houston Astros
+Parker Chavers,27,OF,Chicago Cubs
+Brett Harris,27,3B,Athletics
+Jake Rucker,26,3B,Minnesota Twins
+Robby Martin Jr.,26,OF,Colorado Rockies
+Will Frizzell,26,1B,Washington Nationals
+James Parker,25,SS,Seattle Mariners
+Zack Raabe,26,2B,Milwaukee Brewers
+Mike Antico,28,CF,St. Louis Cardinals
+Casey Opitz,27,C,Chicago Cubs
+Drew Swift,27,SS,Athletics
+Noah Cardenas,26,C,Minnesota Twins
+Lucas Dunn,26,2B,San Diego Padres
+Luke Brown,26,OF,Pittsburgh Pirates
+Liam Hicks,26,C,Texas Rangers
+Tyler Miller,26,3B,Boston Red Sox
+Ryan Higgins,26,3B,Baltimore Orioles
+Parker Bates,28,OF,Kansas City Royals
+Spencer Packard,28,OF,Seattle Mariners
+Jack Rogers,26,LF,Cincinnati Reds
+Liam McGill,28,C,Atlanta Braves
+Shane McGuire,26,C,Athletics
+Patrick Winkel,26,C,Minnesota Twins
+Austin Schultz,25,OF,Detroit Tigers
+Billy Cook,27,OF,Baltimore Orioles
+Zach Kokoska,27,OF,Colorado Rockies
+Logan Cerny,26,CF,Philadelphia Phillies
+Wes Clarke,26,1B,Milwaukee Brewers
+Michael Sandle,27,OF,Houston Astros
+Ben Cowles,26,3B,New York Yankees
+Peter Matt,27,OF,Chicago Cubs
+Jack Winkler,27,2B,Athletics
+Ernie Yake,28,SS,Minnesota Twins
+Colton Bender,27,C,San Diego Padres
+Jacob Berry,24,1B,Miami Marlins
+Brooks Lee,25,3B,Minnesota Twins
+Gavin Cross,25,RF,Kansas City Royals
+Kevin Parada,24,C,New York Mets
+Jace Jung,25,3B,Detroit Tigers
+Zach Neto,25,SS,Los Angeles Angels
+Chase DeLauter,24,RF,Cleveland Guardians
+Daniel Susac,24,C,Athletics
+Spencer Jones,24,CF,New York Yankees
+Eric Brown Jr.,25,SS,Milwaukee Brewers
+Drew Gilbert,25,CF,Houston Astros
+Reggie Crawford,25,1B,San Francisco Giants
+Dalton Rushing,24,C,Los Angeles Dodgers
+Max Wagner,24,3B,Baltimore Orioles
+Ivan Melendez,26,3B,Arizona Diamondbacks
+Cayden Wallace,24,3B,Kansas City Royals
+Peyton Graham,25,SS,Detroit Tigers
+Logan Tanner,25,C,Cincinnati Reds
+Tyler Locklear,25,1B,Seattle Mariners
+Josh Kasevich,25,SS,Toronto Blue Jays
+Jacob Melton,25,LF,Houston Astros
+Brock Jones,24,OF,Tampa Bay Rays
+Jack Brannigan,24,SS,Pittsburgh Pirates
+Trey Lipscomb,25,3B,Washington Nationals
+Joe Lampe,25,OF,Cleveland Guardians
+Gabriel Rincones Jr.,24,RF,Philadelphia Phillies
+Colby Thomas,25,RF,Athletics
+Drake Baldwin,24,C,Atlanta Braves
+Alan Roden,26,LF,Toronto Blue Jays
+Alex Freeland,24,SS,Los Angeles Dodgers
+Silas Ardoin,25,C,Baltimore Orioles
+Ryan Ritter,25,SS,Colorado Rockies
+Jimmy Crooks,24,C,St. Louis Cardinals
+Chase Meidroth,24,SS,Boston Red Sox
+Anthony Hall,25,OF,New York Yankees
+Jordan Sprinkle,24,SS,Chicago White Sox
+Matthew Wood,24,C,Milwaukee Brewers
+Dominic Keegan,25,C,Tampa Bay Rays
+Nick Biddison,25,RF,Los Angeles Dodgers
+Andrew Pintar,24,CF,Arizona Diamondbacks
+Tres Gonzalez,25,OF,Pittsburgh Pirates
+Jared McKenzie,24,OF,Washington Nationals
+Luke Gold,25,3B,Detroit Tigers
+Sonny DiChiara,26,1B,Los Angeles Angels
+Guy Lipscomb,24,OF,Cleveland Guardians
+Cade Hunter,25,C,Cincinnati Reds
+Victor Scott II,25,CF,St. Louis Cardinals
+Jalen Battles,26,SS,Tampa Bay Rays
+Sean McLain,24,SS,Los Angeles Dodgers
+Douglas Hodo III,25,OF,Baltimore Orioles
+Jorel Ortega,25,2B,Minnesota Twins
+Hayden Dunhurst,25,C,Kansas City Royals
+Danny Serretti,25,3B,Detroit Tigers
+Jakob Marsee,24,CF,San Diego Padres
+Brennan Milone,24,3B,Athletics
+Josh Hood,25,SS,Seattle Mariners
+Collin Price,26,C,Houston Astros
+Kody Huff,25,C,Colorado Rockies
+Seth Stephenson,25,OF,Detroit Tigers
+Nick Vogt,25,OF,San Diego Padres
+Caleb Ricketts,25,C,Philadelphia Phillies
+Trey Faltine,25,SS,Cincinnati Reds
+Alex Iadisernia,25,OF,St. Louis Cardinals
+Peyton Williams,25,1B,Toronto Blue Jays
+Ben Metzinger,26,3B,Milwaukee Brewers
+Blake Robertson,24,1B,Tampa Bay Rays
+Zach Morgan,25,C,San Francisco Giants
+Griffin Doersching,27,1B,San Diego Padres
+Tatem Levins,26,C,Seattle Mariners
+Dylan Rock,27,OF,Toronto Blue Jays
+Brett Barrera,24,SS,New York Yankees
+Mario Camilletti,26,2B,Chicago White Sox
+Taylor Young,27,2B,Los Angeles Dodgers
+Wade Meckler,25,OF,San Francisco Giants
+Adam Crampton,24,SS,Baltimore Orioles
+Gavin Logan,26,C,Arizona Diamondbacks
+Maxwell Romero Jr.,24,C,Washington Nationals
+Andrew Jenkins,25,1B,Detroit Tigers
+Joe Stewart,27,OF,Los Angeles Angels
+Chase Estep,25,3B,New York Mets
+Chad Castillo,25,OF,Philadelphia Phillies
+Caeden Trenkle,24,OF,Athletics
+Cory Acton,26,2B,Atlanta Braves
+Michael Turner,27,C,Chicago White Sox
+Brett Johnson,26,OF,Arizona Diamondbacks
+Josh Hatcher,27,OF,Texas Rangers
+Tanner Tredaway,26,OF,Pittsburgh Pirates
+Murphy Stehly,27,3B,Washington Nationals
+Dalton Shuffield,26,SS,Minnesota Twins
+Levi Usher,25,OF,Kansas City Royals
+Matt Coutney,26,1B,Los Angeles Angels
+Brock Rodden,25,2B,Athletics
+Bill Knight,26,OF,Seattle Mariners
+Tim Elko,27,1B,Chicago White Sox
+Zach Cole,25,CF,Houston Astros
